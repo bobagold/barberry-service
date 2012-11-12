@@ -4,7 +4,9 @@
     "license": "MIT",
     "require": {
         "barberry/barberry": "*",
-        "barberry/plugin-imagemagick": "*"
+        "barberry/plugin-imagemagick": "*",
+        "barberry/plugin-ffmpeg": "*",
+        "barberry/plugin-webcapture": "*"
     },
     "minimum-stability": "dev",
     "authors": [
