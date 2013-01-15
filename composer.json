@@ -6,6 +6,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/bobagold/barberry-plugin-webcapture.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/bobagold/barberry-plugin-ffmpeg.git"
         }
     ],
     "require": {
