@@ -10,13 +10,21 @@
         {
             "type": "vcs",
             "url": "https://github.com/bobagold/barberry-plugin-ffmpeg.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/bobagold/barberry-plugin-openoffice.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/bobagold/barberry-plugin-imagemagick.git"
         }
     ],
     "require": {
         "barberry/barberry": "*",
         "barberry/plugin-imagemagick": "*",
-        "barberry/plugin-ffmpeg": "*",
-        "barberry/plugin-webcapture": "*"
+        "barberry/plugin-openoffice": "*",
+        "barberry/filter-openoffice": "*"
     },
     "minimum-stability": "dev",
     "authors": [
