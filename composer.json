@@ -17,6 +17,10 @@
         },
         {
             "type": "vcs",
+            "url": "https://github.com/bobagold/barberry-filter-openoffice.git"
+        },
+        {
+            "type": "vcs",
             "url": "https://github.com/bobagold/barberry-plugin-imagemagick.git"
         }
     ],
